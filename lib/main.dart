@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'snackbar.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Snackbar());
 }
 
 class MyApp extends StatelessWidget {
